@@ -1,0 +1,9 @@
+{
+  "airtable": {
+    "API_KEY": "keyyXTlgt6MB0aYxi",
+    "BASE_ID": "appaslCCtwklnTqcY",
+    "TABLE_NAME": {
+      "GARDEN_PLANTS": "Plants"
+    }
+  }
+}
